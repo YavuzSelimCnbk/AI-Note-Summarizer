@@ -1,0 +1,7 @@
+{
+  "name": "AI Note Summarizer",
+  "description": "An AI-powered app to summarize handwritten notes using OCR and Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
